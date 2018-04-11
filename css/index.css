@@ -1,26 +1,12 @@
-.container {
-  max-width: 900px;
-  background: grey;
-}
-nav {
-  padding: 20px 0;
-}
-nav a {
-  color: black;
-}
 .jumbotron {
-  background: offwhite;
+  background-color: #009688;
 }
-.jumbotron .btn {
-  background: gray;
-  border: 1px solid white;
-}
-.table-row {
-  margin-top: 20px;
-}
-.footer {
-  margin-top: 20px;
-  padding: 20px 0;
-  background: gray;
+.jumbotron h2 {
   color: white;
+}
+.jumbotron h3 {
+  color: white;
+}
+.main-content {
+  height: 400px;
 }
